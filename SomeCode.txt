@@ -1,0 +1,6 @@
+class public FirstProgramAgain{
+
+	public static void main(String[] args) {
+
+	}
+}
